@@ -50,6 +50,3 @@ Two primary models were implemented and compared:
    import nltk
    nltk.download(['wordnet', 'punkt', 'averaged_perceptron_tagger', 'omw-1.4'])
    ```
-
----
-*This notebook serves as a benchmark for comparing classical ML approaches on imbalanced text datasets.*
